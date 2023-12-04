@@ -1,4 +1,4 @@
-# NPM
+# NPM - work in progress!
 
 Nitrogen Prescription Model (NPM) version 2 for DSSAT crop growth models.
 
