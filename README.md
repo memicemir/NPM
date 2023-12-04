@@ -54,6 +54,4 @@ Memic, E., Trenz, J., Heshmati, S., Graeff, S. Evaluation of crop model-based ma
 
 NPM_v2 is a new version of the NPM model published in:
 
-Memic, E., Graeff, S., Claupein, W. et al. GIS-based spatial nitrogen management model for maize: short- and long-term marginal net return maximising nitrogen application rates. Precision Agric 20, 295–312 (2019). https://doi.org/10.1007/s11119-018-9603-4
-
-
+Memic, E., Graeff, S., Claupein, W., & Batchelor, W. D. (2019). GIS-based spatial nitrogen management model for maize: short- and long-term marginal net return maximising nitrogen application rates. Precision Agriculture, 20(2), 295–312. https://doi.org/10.1007/s11119-018-9603-4
