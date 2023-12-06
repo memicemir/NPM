@@ -1,4 +1,4 @@
-# NPM
+# NPM - work in progress!
 
 Nitrogen Prescription Model (NPM) version 2 for DSSAT crop growth models.
 
@@ -49,11 +49,9 @@ After executing "NPM_v2.exe" a working directory "NitrogenPrescriptionWorkspace"
 
 NPM related publications:
 
-Memic E., Trenz J., Heshmati S., Graeff S. Evaluation of crop model-based marginal net return maximising nitrogen application retes on site-specific level in maize. In Precision Agriculture '23 Proceedings of European Conference on Precision Agriculture, Bologna, Italy, 2 July 2023; John V. Stafford, Ed.; Wageningen Academics Publishers: Wageningen, The Netherlands, 2023. https://doi.org/10.3920/978-90-8686-947-3
+Memic, E., Trenz, J., Heshmati, S., Graeff, S. 98. Evaluation of crop model-based marginal net return maximising nitrogen application retes on site-specific level in maize. In Precision Agriculture '23 Proceedings of European Conference on Precision Agriculture, Bologna, Italy, 2 July 2023; John V. Stafford, Ed.; Wageningen Academics Publishers: Wageningen, The Netherlands, 2023, pages: 781-787. https://doi.org/10.3920/978-90-8686-947-3
 
 
 NPM_v2 is a new version of the NPM model published in:
 
-"Memic, E., Graeff, S., Claupein, W. et al. GIS-based spatial nitrogen management model for maize: short- and long-term marginal net return maximising nitrogen application rates. Precision Agric 20, 295–312 (2019). https://doi.org/10.1007/s11119-018-9603-4"
-
-
+Memic, E., Graeff, S., Claupein, W., & Batchelor, W. D. (2019). GIS-based spatial nitrogen management model for maize: short- and long-term marginal net return maximising nitrogen application rates. Precision Agriculture, 20(2), 295–312. https://doi.org/10.1007/s11119-018-9603-4
