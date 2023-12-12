@@ -1,5 +1,7 @@
 # NPM - work in progress!
 
+The NPM_v2.1 is latest version (Decembar 2023). The NPM_v2 user guidelines can be used for running NPM_2.1 version.
+------------------------
 Nitrogen Prescription Model (NPM) version 2 for DSSAT crop growth models.
 
 NPM tool for DSSAT crop growth models.
