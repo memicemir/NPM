@@ -1,16 +1,16 @@
 # NPM - work in progress!
 
-The NPM_v2.1 is latest version (Decembar 2023). The NPM_v2 user guidelines can be used for running NPM_2.1 version.
+The NPM_v2.1 is latest version (Decembar 2023).
 ------------------------
 Nitrogen Prescription Model (NPM) version 2 for DSSAT crop growth models.
 
 NPM tool for DSSAT crop growth models.
 
-1. The "NPM_v2.7z" file has to be unzipped (with 7-zip). 
+1. The "NPM_v2.1.7z" file has to be unzipped (with 7-zip). 
 
-2. Unzipped "NPM_v2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
+2. Unzipped "NPM_v2.1" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools". 
 
-3. In folder "NPM_v2" ("C:\DSSAT48\Tools\NPM_v2")  ->NPM_v2.exe<- executed as Administrator.
+3. In folder "NPM_v2" ("C:\DSSAT48\Tools\NPM_v2.1")  ->NPM_v2.1.exe<- executed as Administrator.
 
 4. More detailed instructions can be found in user guidelines!
 
@@ -29,9 +29,9 @@ NPM tool for DSSAT crop growth models.
 │       ├── ...
 │       └── NPM_v2
 │           ├── ...
-│           └── NPM_v2.exe	
+│           └── NPM_v2.1.exe	
 
-After executing "NPM_v2.exe" a working directory "NitrogenPrescriptionWorkspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
+After executing "NPM_v2.1.exe" a working directory "NitrogenPrescriptionWorkspace" is created in "Tools" directory where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
